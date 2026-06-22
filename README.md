@@ -1,5 +1,6 @@
 ﻿# Cyber-Defence-hackathon-2026
- ## 🛡️ PhishGuard — Phishing URL & Email Risk Checker
+ 
+ ##  PhishGuard — Phishing URL & Email Risk Checker
 
 > **Cyber Defence Innovation Hackathon 2026**
 > Track 1: Phishing Detection and Awareness
@@ -37,12 +38,12 @@ It was built to address a genuine gap: everyday users have no simple, accessible
 
 - **Python 3** — backend logic and URL/text analysis engine
 - **Flask** — lightweight web server
-- **HTML / CSS / JavaScript** — single-page dashboard (no framework needed)
-- **Rule-Based Detection** — fully transparent if/else checks (no black-box ML)
+- **HTML / CSS / JavaScript** — single-page dashboard
+- **Rule-Based Detection** — fully transparent if/else checks
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 ```bash
