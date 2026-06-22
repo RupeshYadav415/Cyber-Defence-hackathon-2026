@@ -26,11 +26,11 @@ It was built to address a genuine gap: everyday users have no simple, accessible
 
 | Feature | Description |
 
-| 🔗 URL Analysis | Checks for missing HTTPS, raw IP addresses, URL shorteners, look-alike brand domains, suspicious hyphens and number substitutions |
-| 📧 Email / Message Analysis | Scans text for urgency phrases, manipulation tactics, excessive capitals and exclamation marks |
-| 🎯 Risk Scoring | Transparent rule-based scoring → **Safe / Suspicious / Dangerous** verdict |
-| 💡 Awareness Tips | Every scan includes a plain-English security tip to educate the user |
-| 🕒 Scan History | Scrollable session log of all previous checks with timestamps |
+|  URL Analysis | Checks for missing HTTPS, raw IP addresses, URL shorteners, look-alike brand domains, suspicious hyphens and number substitutions |
+|  Email / Message Analysis | Scans text for urgency phrases, manipulation tactics, excessive capitals and exclamation marks |
+|  Risk Scoring | Transparent rule-based scoring → Safe / Suspicious / Dangerous verdict |
+|  Awareness Tips | Every scan includes a plain-English security tip to educate the user |
+|  Scan History | Scrollable session log of all previous checks with timestamps |
 
 ---
 
